@@ -1,11 +1,27 @@
-<<<<<<< HEAD
-# Nextjs-pos-USAFLEXbo
-pos and inventory system of USAFLEX
-=======
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<image src="./public/next.svg"></image>
 
-## Getting Started
+<h1 align="center">Next POS Restaurant</h1>
 
+
+## Install project
+
+First, install dependencies:
+```bash
+npm install
+# or
+yarn install
+```
+
+2. Run docker compose
+```bash
+docker compose up -d
+
+```
+
+3. Rename ```.env.template``` for ```.env```
+
+
+## Run project
 First, run the development server:
 
 ```bash
